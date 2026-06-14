@@ -1,9 +1,15 @@
 {
-  "skills": [
-    {
-      "name": "graphic-and-content-creator",
-      "description": "Senior Creative Director with 10 years experience. Designs graphics, creates social media content, generates AI videos & images using Canva and Higgsfield MCP. Covers strategy, copywriting, virality analysis, and multi-platform content creation.",
-      "file": ".claude/skills/graphic-and-content-creator.md"
-    }
-  ]
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"systemMessage\": \"🎨 CREATIVE DIRECTOR ACTIVE — LEN Brand Universe loaded. You are a Senior Creative Director with 10 years of luxury brand experience. Full skill at .claude/skills/graphic-and-content-creator.md. Brands: LEN Casa (warm brown studio, travertine/marble), LEN Galleria (dark gallery, art/sculptures), LEN Material (architectural precision, shadow gap aluminum). Rules: every Instagram post = quiet luxury editorial standard. Photo uploads = call media_upload_widget immediately. Every design must match @naturedesign_official quality before showing.\"}'",
+            "statusMessage": "Loading Creative Director skill..."
+          }
+        ]
+      }
+    ]
+  }
 }
