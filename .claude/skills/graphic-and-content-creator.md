@@ -93,35 +93,79 @@ Export PNG + caption + hashtags ready to post.
 
 ---
 
-## Brand Theme Memory System
+## LEN Brand Universe — Always Active
 
-**Every time you work with a brand, remember and apply their theme to ALL future posts.**
+All 3 brands share the same DNA: **Quiet Luxury / Natural Materials / Editorial Warmth**.
+The moment a brand is mentioned, apply its profile automatically — no need to ask.
 
-When a brand theme is established, store these values mentally and apply them automatically:
+---
+
+### 🏠 LEN Casa
+**Premium home accessories in marble, travertine, and onyx.**
+
+Products: Vases · Mubkhar · Candles · Cigar Accessories · Dining · Tables · Office · Bathroom · Limited Collections
 
 ```
-BRAND: [Name]
-PALETTE: [Primary color] / [Secondary] / [Accent] / [Text color]
-PHOTOGRAPHY STYLE: [Studio / Lifestyle / Editorial / etc.]
-TYPOGRAPHY: [Font style] / [Size hierarchy] / [Placement]
-GRID THEME: [Overall vibe and color temperature]
-TONE: [Luxury / Bold / Minimal / etc.]
-REFERENCE: [Competitor or inspiration account]
-```
-
-**LEN Casa — Active Brand Profile:**
-```
-BRAND: LEN Casa
-CATEGORY: Premium home accessories — natural materials (travertine, stone, wood)
-PALETTE: Deep warm brown #5C3D2E / Sand gold #C9A882 / Cream #F0E8D8 / Taupe #D4C4B0
-PHOTOGRAPHY: Warm earthy studio shots — brown/sand backgrounds, cinematic lighting
-TYPOGRAPHY: Small caps category label (thin) → Large bold serif product name → Tiny brand name
+PALETTE:    Deep warm brown #5C3D2E / Sand gold #C9A882 / Cream #F0E8D8 / Taupe #D4C4B0
+PHOTO:      Warm earthy studio — brown/sand background, cinematic directional lighting
+TYPOGRAPHY: MATERIAL (small caps thin) → PRODUCT NAME (large bold serif) → LEN CASA (tiny)
 TEXT COLOR: Warm cream #F0E8D8
-GRID THEME: @naturedesign_official aesthetic — every post has the same warm brown world
-TONE: Quiet Luxury / Organic / Editorial
-CAPTION TONE: Poetic, minimal, English — "Crafted by nature." / "Stone remembers."
-HASHTAGS: #LENCasa #TravertineDesign #NaturalHome #LuxuryInteriors #HomeAccessories
+GRID:       @naturedesign_official — every post lives in the same warm brown world
+TONE:       Quiet Luxury · Organic · Sensory
+CAPTION:    Poetic, minimal, English — "Stone remembers." / "Crafted by nature."
+HASHTAGS:   #LENCasa #TravertineDesign #NaturalHome #LuxuryInteriors #MarbleDecor
 ```
+
+---
+
+### 🖼 LEN Galleria
+**Luxury art and sculptures — Lebanon & Kuwait.**
+
+Materials: Stone · Metal · Wood · Clay · Carpet · Concrete · Mirror · Glass · Canvas · General Art
+
+```
+PALETTE:    Deep charcoal #1C1C1C / Warm black #2A2118 / Gold #C9A255 / Cream #F0E8D8
+PHOTO:      Gallery-style lighting — dramatic single spotlight, dark moody background,
+            art piece as the hero with strong contrast and negative space
+TYPOGRAPHY: MEDIUM / MATERIAL (small caps) → ARTWORK TITLE (large elegant serif italic)
+            → LEN GALLERIA (tiny, bottom right)
+TEXT COLOR: Warm gold #C9A255 or cream #F0E8D8
+GRID:       Dark, gallery-like — alternates between close detail shots and full compositions
+TONE:       Artistic · Contemplative · Collector
+CAPTION:    Art-world language — "Each piece holds a silence." / "Form before function."
+HASHTAGS:   #LENGalleria #LuxuryArt #SculptureDesign #ArtCollector #KuwaitArt
+```
+
+---
+
+### 🔩 LEN Material
+**Architectural aluminum Shadow Gap profiles for walls, ceilings, and floors — B2B & B2C.**
+
+Finishes: Mill · RAL · Anodized · Length: 6m · Starting from KD 2.5
+
+```
+PALETTE:    Concrete grey #4A4A4A / Brushed silver #C0C0C0 / Warm white #F5F3F0 / Black #1A1A1A
+PHOTO:      Architectural photography — clean lines, precision, installed in real spaces,
+            close-up of the shadow gap detail showing the finish quality
+TYPOGRAPHY: APPLICATION (small caps) → SHADOW GAP (large geometric sans-serif, not serif)
+            → LEN MATERIAL (tiny) · FINISH: MILL / RAL / ANODIZED (small label)
+TEXT COLOR: White #FFFFFF or warm white #F5F3F0
+GRID:       Clean, precise, architectural — alternates between installed shots and material close-ups
+TONE:       Precision · Architectural · Professional (B2B-aware)
+CAPTION:    Technical meets aesthetic — "The detail that defines the space." / "Where wall meets ceiling, perfectly."
+HASHTAGS:   #LENMaterial #ShadowGap #ArchitecturalDesign #InteriorArchitecture #AluminumProfile
+```
+
+---
+
+## Brand Detection Rule
+
+When the user says:
+- "Casa" or "Vase" or "Mubkhar" or "Candle" or "Marble" → **LEN Casa profile**
+- "Galleria" or "Art" or "Sculpture" or "Painting" → **LEN Galleria profile**
+- "Material" or "Shadow Gap" or "Profile" or "Aluminum" → **LEN Material profile**
+
+If unclear, ask: *"Which LEN brand is this for?"*
 
 ---
 
